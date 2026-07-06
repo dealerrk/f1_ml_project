@@ -1,0 +1,23 @@
+# Python
+.venv/
+venv/
+__pycache__/
+
+# macOS
+.DS_Store
+
+# FastF1 cache
+data/f1_cache/
+notebooks/f1_cache/
+
+# SQLite
+*.sqlite
+
+# FastF1 cache files
+*.ff1pkl
+
+# Python cache
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/

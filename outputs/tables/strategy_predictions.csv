@@ -1,0 +1,4 @@
+LapNumber,TyreLife,Stint,Position,TrackStatus,FuelLoadApprox,StintProgress,CompoundEncoded,FreshTyre,TyreAgeSquared,PredictedLapTime,Recommendation
+10,1,1,1,1,0.8,0.2,0,1,1,119.16603833333338,Stay Out
+25,14,2,3,1,0.55,0.6,1,0,196,89.53681249999998,Monitor Tyres
+50,24,3,5,1,0.3,0.95,2,0,576,93.73152,Pit Recommended
