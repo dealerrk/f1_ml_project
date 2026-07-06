@@ -1,0 +1,11 @@
+Driver,Team,LapNumber,Compound,TyreLife,LapTimeSeconds
+GAS,AlphaTauri,34.0,MEDIUM,1.0,149.129
+LEC,Ferrari,35.0,MEDIUM,1.0,147.541
+RUS,Mercedes,42.0,SOFT,1.0,145.466
+VER,Red Bull Racing,41.0,SOFT,1.0,138.778
+OCO,Alpine,33.0,HARD,1.0,138.694
+RUS,Mercedes,52.0,SOFT,1.0,136.484
+OCO,Alpine,16.0,HARD,4.0,135.708
+MAG,Haas F1 Team,50.0,SOFT,1.0,134.785
+VER,Red Bull Racing,40.0,MEDIUM,5.0,133.541
+ALB,Williams,15.0,HARD,4.0,133.278
