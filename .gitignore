@@ -20,4 +20,6 @@ notebooks/f1_cache/
 *.pyc
 
 # Jupyter
-.ipynb_checkpoints/
+.ipynb_checkpoints/models/*.pkl
+notebooks/*.pkl
+*.sqlite
